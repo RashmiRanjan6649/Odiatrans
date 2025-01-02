@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: video_to_odia
+Version: 0.1.0
+Summary: A tool to transcribe and translate videos from English to Odia.
+Home-page: https://github.com/yourgithub/video_to_odia
+Author: Rashmi Ranjan Sahoo
+Author-email: your_email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: moviepy
+Requires-Dist: SpeechRecognition
+Requires-Dist: googletrans==4.0.0-rc1
